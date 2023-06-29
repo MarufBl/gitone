@@ -1,0 +1,11 @@
+h1 {
+  font-size: 3em;
+  font-family: sans-sarif;
+  text-align: center;
+  text-transform: capitalize;
+  color: red;
+  background-color: gray;
+  padding: 15px;
+  border-radius: 10px;
+  border: 2px solid gray;
+}
